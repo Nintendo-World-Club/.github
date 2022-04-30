@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Ari24-cb24/nintendoworldclub.de/">
+  <a>
     <img src="../static/old.png" alt="Logo" width="240" height="240">
   </a>
 

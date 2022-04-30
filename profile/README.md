@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="../static/old.png" alt="Logo" width="240" height="240">
+    <img src="https://github.com/Nintendo-World-Club/.github/blob/main/static/old.png" alt="Logo" width="240" height="240">
   </a>
 
   <h3 align="center">Nintendo World Club</h3>
